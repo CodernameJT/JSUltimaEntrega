@@ -1,0 +1,132 @@
+[
+  {
+    "id": 17,
+    "title": "Greek salad",
+    "category": "lunch",
+    "price": 1.99,
+    "img": "./assets/img/Ensalada-marinera.png",
+    "desc": "remember a salad is not just a side dish",
+    "q": 0
+  },
+  {
+    "id": 2,
+    "title": "Easy Hard-Boiled Eggs",
+    "category": "breakfast",
+    "price": 0.99,
+    "img": "./assets/img/Huevos-fritos-miel.jpg",
+    "desc": "Place eggs in a pot; pour enough water over the eggs to cover. Cover and turn stove to high; bring to a boil; turn off heat and place pot on a cool burner. Let the pot sit with the cover on for 15 minutes. Meanwhile, fill a large bowl halfway with cold water; transfer the eggs from the pot to the cold water. Replace the water with cold water as needed to keep cold until the eggs are completely cooled. Chill in refrigerator at least 2 hours before peeling",
+    "q": 0
+  },
+  {
+    "id": 22,
+    "title": "Grandma's Gnocchi",
+    "category": "lunch",
+    "price": 2.99,
+    "img": "./assets/img/Gnoochi.png",
+    "desc": "Lightly beat egg. Bring a large pot of salted water to a boil. Drop in potatoes and cook until tender but still firm, about 15 minutes. Drain, cool slightly, and peel. Season with salt, then mash potatoes with fork, masher, or in ricer. Place in large bowl, and stir in egg and olive oil. Knead in enough flour to make a soft dough.   On a floured surface, roll dough into a long rope. Cut the rope into 1/2-inch pieces. Bring a large pot of lightly salted water to a boil. Drop in gnocchi, and cook until they float to the top, about 3 to 5 minutes. Serve with pasta sauce.",
+    "q": 0
+  },
+  {
+    "id": 13,
+    "title": "Sausage and Egg",
+    "category": "dinner",
+    "price": 5.99,
+    "img": "./assets/img/Huevosfritos-chorizo.jpg",
+    "desc": "Place sausage in a large, deep skillet. Cook over medium-high heat until evenly brown. Drain, crumble, and set aside. In a lightly greased 9x13 inch baking dish, arrange the croutons in a single layer. Layer with Cheddar cheese, Swiss cheese, and pepperjack cheese. Top with the cooked sausage.  In a large bowl, beat together the eggs, half-and-half, milk, mustard, onion, salt, and pepper. Pour into the dish over the sausage. Cover, and refrigerate overnight.  The next morning, bake in an oven preheated to 350 degrees F (175 degrees C) for 45 to 60 minutes. Let sit for 20 minutes before serving.",
+    "q": 0
+  },
+  {
+    "id": 4,
+    "title": "Chicken Nuggets",
+    "category": "breakfast",
+    "price": 2.99,
+    "img": "./assets/img/Receta-Pollo-frito.jpg",
+    "desc": "Dip chicken pieces into the melted butter first, then coat with the breadcrumb mixture. Place the well-coated chicken pieces on a lightly greased cookie sheet in a single layer, and bake in the preheated oven for 20 minutes.",
+    "q": 0
+  },
+  {
+    "id": 23,
+    "title": "lasagna",
+    "category": "lunch",
+    "price": 17.99,
+    "img": "./assets/img/lasagna.jpg",
+    "desc": "In an 8x8-inch or 9x9-inch baking pan, spread 1/4 of the marinara sauce evenly across the bottom of the pan. Layer 1/3 of the lasagna noodles in an even layer, followed by half of the ricotta cheese, 1/3 of the mozzarella, 1/2 the spinach, and 1/3 the basil. Repeat with a second layer of marinara, noodles, ricotta, Mozzarella, spinach and basil. Then finish with a final layer of marinara, noodles, marinara and Mozzarella.",
+    "q": 0
+  },
+  {
+    "id": 10,
+    "title": "Homemade Pizza Bagels",
+    "category": "snack",
+    "price": 6.99,
+    "img": "./assets/img/pizzabagel.jpg",
+    "desc": "Bake in oven for about 10 minutes until the cheese is melted. Serve hot and enjoy!",
+    "q": 0
+  },
+  {
+    "id": 3,
+    "title": "Potatoe Souffle",
+    "category": "breakfast",
+    "price": 4.99,
+    "img": "./assets/img/sufle-patatas.jpg",
+    "desc": "Add a splash of hot milk mixture into the egg mixture and whisk well until the mixture is smooth, then gradually whisk in the rest of the milk mixture. Pour the mixture back into the saucepan. Whisk the mixture continuously over a medium-low heat for 3-4 minutes until thickened and smooth. KEEP WHISKING during this process otherwise your custard will overcook and become clumpy.",
+    "q": 0
+  },
+  {
+    "id": 21,
+    "title": "risotto",
+    "category": "lunch",
+    "price": 4.99,
+    "img": "./assets/img/risotto.jpg",
+    "desc": "Heat cooking oil in a medium saucepan over medium heat. Add the quinoa and toast, stirring, for 2 to 3 minutes. Add 1½ cups stock (to start, you can add more later) and a pinch of salt. Increase the heat, bring to a boil, the reduce heat and simmer 20 to 25 minutes until the quinoa is very tender. If you need to, add more stock during the cooking process.",
+    "q": 0
+  },
+  
+  {
+    "id": 39,
+    "title": "kingkong burger",
+    "category": "dinner",
+    "price": 8.99,
+    "img": "./assets/img/kingkong-burger..jpg",
+    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, vitae repellat autem voluptatem veritatis ipsam nobis, esse mollitia est blanditiis dolores quas. Eum obcaecati perferendis officia culpa dolorem nostrum accusamus.",
+    "q": 0
+  },
+  {
+    "id": 11,
+    "title": "fruit salad",
+    "category": "dessert",
+    "price": 222.99,
+    "img": "./assets/img/fruitsalad.jpg",
+    "desc": "rinse and drain remaining fruit, then combine and serve",
+    "q": 0
+  },
+  {
+    "id": 38,
+    "title": "pepperoni",
+    "category": "dinner",
+    "price": 6.99,
+    "img": "./assets/img/pepperoni.png",
+    "desc": "Pizza con chori o cantimpalo",
+    "q": 0
+  },
+  
+  {
+    "id": 58,
+    "title": "Chocolate Avocado Pudding",
+    "category": "dessert",
+    "price": 0,
+    "img": "./assets/img/Chocolate-Avocado-Pudding.jpg",
+    "desc": "Puree everything in a food processor or blender until smooth. Serve immediately or chill and serve cold.",
+    "q": 0
+  },
+
+  {
+    "id": 3,
+    "title": "empanadas",
+    "category": "snack",
+    "price": 1,
+    "img": "./assets/img/empanada.jpg",
+    "desc": "Que miseria che,que miseria!Sabes lo que tenian para comer??? 3 EMPANADAS ,me partieron el alma!!!",
+    "q": 3
+  }
+  
+]

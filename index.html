@@ -1,0 +1,77 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+  <head> 
+    <meta charset="UTF-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+    <link 
+      rel="favi icon" 
+      href="./assets/icons/favicon.ico" 
+      type="image/x-icon" 
+    /> 
+    <title>Listado de platos</title> 
+    <!-- archivos de aplicacion --> 
+    <script src="./app/index.js" defer></script> 
+    <script src="./app/font-styles.js" defer></script> 
+    <!-- sweet alert y tailwind --> 
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> 
+    <script src="https://cdn.tailwindcss.com"></script> 
+    <!-- icons --> 
+    
+    <link 
+      rel="stylesheet" 
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" 
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" 
+      crossorigin="anonymous" 
+      referrerpolicy="no-referrer" 
+    /> 
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com" /> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin /> 
+    <link 
+      href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" 
+      rel="stylesheet" 
+    /> 
+   
+  </head> 
+  <body class="bg-orange-400 font-sans"> 
+    <header 
+      class="text-indigo-900 p-2  relative text-center"
+    >
+      <h1 class="title mb-4 text-5xl font-bold text-center">Plan Alimentación - Elija los platos</h1>
+      <!-- boton del carrito arriba a la derecha -->
+      <button 
+        id="cart-toggle"
+        class="absolute top-2 right-2 bg-indigo-300 text-indigo-100 px-2 rounded hover:bg-indigo-500" 
+      >
+        <i class="fa-solid fa-cart-shopping"></i>
+      </button>
+      <section
+        id="cart"
+        class="cart bg-black border-4 border-indigo-950 rounded p-4 mt-2 text-center hidden absolute top-12 right-6 w-72 z-10"
+      >
+        <h4 class="text-xl font-semibold mb-4 text-indigo-300">My Cart</h4>
+        <article class="space-y-4" id="added-items"></article>
+        <button
+          class="mt-2 rounded-full p-2 border-2 border-indigo-800 hover:bg-indigo-800 hover:text-black"
+          id="buy-btn"
+        >
+          Listo
+        </button>
+      </section>
+    </header>
+    <section class="menu my-6">
+      <div class="title text-center">
+        <button class="text-4xl font-semibold text-indigo-200" id="return-home">
+          <i class="fa-solid fa-pepper-hot"></i>
+        </button>
+        <div class="underline bg-indigo-900 h-1 w-16 mx-auto mt-2"></div>
+      </div>
+      <aside class="flex flex-wrap justify-center mt-6" id="box-btn"></aside>
+        <div class="border-t border-indigo-500 border-2 my-4"></div>
+      <div
+        class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-4"
+        id="foods"
+      ></div>
+    </section>
+  </body>
+</html>
